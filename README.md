@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### create file .evn and paste all data from env_local
+### create file .env and paste all data from .env_local
 
 ## To run locally without docker
 
